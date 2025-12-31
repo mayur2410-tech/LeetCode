@@ -11,7 +11,7 @@ public:
         }
         string str="";
         for(int i=0 ;i<=temp; i++ ){
-            str+= num[i];
+            str += num[i];
         }
         return str;
     }
