@@ -40,4 +40,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mayur2410-tech/LeetCode/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/mayur2410-tech/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+## String
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/mayur2410-tech/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/mayur2410-tech/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
