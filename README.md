@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/mayur2410-tech/LeetCode/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/mayur2410-tech/LeetCode/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,11 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/mayur2410-tech/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/mayur2410-tech/LeetCode/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/mayur2410-tech/LeetCode/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mayur2410-tech/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/mayur2410-tech/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0389-find-the-difference](https://github.com/mayur2410-tech/LeetCode/tree/master/0389-find-the-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/mayur2410-tech/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mayur2410-tech/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/mayur2410-tech/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0389-find-the-difference](https://github.com/mayur2410-tech/LeetCode/tree/master/0389-find-the-difference) |
 | [1903-largest-odd-number-in-string](https://github.com/mayur2410-tech/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
