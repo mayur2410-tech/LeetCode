@@ -48,7 +48,7 @@ public:
                 target <= matrix[midRow][n - 1]) {
                 // search in this row
                 return searchInRow(matrix, target, midRow);
-            } else if (target >= matrix[midRow][n - 1]) {
+            } else if (target > matrix[midRow][n - 1]) {
                 stRow = midRow + 1;
             } else {
                 endRow = midRow - 1;
