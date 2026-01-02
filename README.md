@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/mayur2410-tech/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mayur2410-tech/LeetCode/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/mayur2410-tech/LeetCode/tree/master/0645-set-mismatch) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/mayur2410-tech/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/mayur2410-tech/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/mayur2410-tech/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0389-find-the-difference](https://github.com/mayur2410-tech/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/mayur2410-tech/LeetCode/tree/master/0645-set-mismatch) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/mayur2410-tech/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/mayur2410-tech/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
