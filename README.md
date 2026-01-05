@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/mayur2410-tech/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/mayur2410-tech/LeetCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/mayur2410-tech/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0520-detect-capital](https://github.com/mayur2410-tech/LeetCode/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/mayur2410-tech/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/mayur2410-tech/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/mayur2410-tech/LeetCode/tree/master/1903-largest-odd-number-in-string) |
