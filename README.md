@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mayur2410-tech/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/mayur2410-tech/LeetCode/tree/master/0070-climbing-stairs) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mayur2410-tech/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/mayur2410-tech/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/mayur2410-tech/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/mayur2410-tech/LeetCode/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/mayur2410-tech/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mayur2410-tech/LeetCode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/mayur2410-tech/LeetCode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/mayur2410-tech/LeetCode/tree/master/0412-fizz-buzz) |
 | [1390-four-divisors](https://github.com/mayur2410-tech/LeetCode/tree/master/1390-four-divisors) |
 | [1903-largest-odd-number-in-string](https://github.com/mayur2410-tech/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mayur2410-tech/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mayur2410-tech/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/mayur2410-tech/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mayur2410-tech/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
