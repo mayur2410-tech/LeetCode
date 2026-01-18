@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/mayur2410-tech/LeetCode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/mayur2410-tech/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1470-shuffle-the-array](https://github.com/mayur2410-tech/LeetCode/tree/master/1470-shuffle-the-array) |
+| [1895-largest-magic-square](https://github.com/mayur2410-tech/LeetCode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/mayur2410-tech/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mayur2410-tech/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/mayur2410-tech/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/mayur2410-tech/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mayur2410-tech/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mayur2410-tech/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1895-largest-magic-square](https://github.com/mayur2410-tech/LeetCode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/mayur2410-tech/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/mayur2410-tech/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
@@ -222,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/mayur2410-tech/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+## Prefix Sum
+|  |
+| ------- |
+| [1895-largest-magic-square](https://github.com/mayur2410-tech/LeetCode/tree/master/1895-largest-magic-square) |
 <!---LeetCode Topics End-->
