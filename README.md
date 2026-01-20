@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/mayur2410-tech/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/mayur2410-tech/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/mayur2410-tech/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/mayur2410-tech/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3453-separate-squares-i](https://github.com/mayur2410-tech/LeetCode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/mayur2410-tech/LeetCode/tree/master/3454-separate-squares-ii) |
 ## Bit Manipulation
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/mayur2410-tech/LeetCode/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/mayur2410-tech/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/mayur2410-tech/LeetCode/tree/master/0645-set-mismatch) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/mayur2410-tech/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Two Pointers
 |  |
 | ------- |
