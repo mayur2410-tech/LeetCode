@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mayur2410-tech/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/mayur2410-tech/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/mayur2410-tech/LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [1266-minimum-time-visiting-all-points](https://github.com/mayur2410-tech/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/mayur2410-tech/LeetCode/tree/master/1390-four-divisors) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/mayur2410-tech/LeetCode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/mayur2410-tech/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/mayur2410-tech/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/mayur2410-tech/LeetCode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/mayur2410-tech/LeetCode/tree/master/0412-fizz-buzz) |
+| [1266-minimum-time-visiting-all-points](https://github.com/mayur2410-tech/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/mayur2410-tech/LeetCode/tree/master/1390-four-divisors) |
 | [1903-largest-odd-number-in-string](https://github.com/mayur2410-tech/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/mayur2410-tech/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -285,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mayur2410-tech/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/mayur2410-tech/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
