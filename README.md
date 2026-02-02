@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/mayur2410-tech/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/mayur2410-tech/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/mayur2410-tech/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/mayur2410-tech/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/mayur2410-tech/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/mayur2410-tech/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3453-separate-squares-i](https://github.com/mayur2410-tech/LeetCode/tree/master/3453-separate-squares-i) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/mayur2410-tech/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2965-find-missing-and-repeated-values](https://github.com/mayur2410-tech/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/mayur2410-tech/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/mayur2410-tech/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mayur2410-tech/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mayur2410-tech/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Divide and Conquer
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/mayur2410-tech/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/mayur2410-tech/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mayur2410-tech/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mayur2410-tech/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/mayur2410-tech/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mayur2410-tech/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/mayur2410-tech/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Geometry
 |  |
 | ------- |
