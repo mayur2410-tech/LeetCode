@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3454-separate-squares-ii](https://github.com/mayur2410-tech/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mayur2410-tech/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mayur2410-tech/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3637-trionic-array-i](https://github.com/mayur2410-tech/LeetCode/tree/master/3637-trionic-array-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/mayur2410-tech/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Bit Manipulation
 |  |
