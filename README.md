@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/mayur2410-tech/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mayur2410-tech/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mayur2410-tech/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3714-longest-balanced-substring-ii](https://github.com/mayur2410-tech/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/mayur2410-tech/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Divide and Conquer
 |  |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/mayur2410-tech/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/mayur2410-tech/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/mayur2410-tech/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/mayur2410-tech/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1895-largest-magic-square](https://github.com/mayur2410-tech/LeetCode/tree/master/1895-largest-magic-square) |
+| [3714-longest-balanced-substring-ii](https://github.com/mayur2410-tech/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/mayur2410-tech/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Linked List
 |  |
