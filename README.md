@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/mayur2410-tech/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/mayur2410-tech/LeetCode/tree/master/0070-climbing-stairs) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mayur2410-tech/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0799-champagne-tower](https://github.com/mayur2410-tech/LeetCode/tree/master/0799-champagne-tower) |
 | [0845-longest-mountain-in-array](https://github.com/mayur2410-tech/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/mayur2410-tech/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/mayur2410-tech/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
