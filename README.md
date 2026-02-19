@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/mayur2410-tech/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mayur2410-tech/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mayur2410-tech/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0696-count-binary-substrings](https://github.com/mayur2410-tech/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0845-longest-mountain-in-array](https://github.com/mayur2410-tech/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/mayur2410-tech/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mayur2410-tech/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/mayur2410-tech/LeetCode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/mayur2410-tech/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/mayur2410-tech/LeetCode/tree/master/0520-detect-capital) |
+| [0696-count-binary-substrings](https://github.com/mayur2410-tech/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mayur2410-tech/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0771-jewels-and-stones](https://github.com/mayur2410-tech/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/mayur2410-tech/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
