@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/mayur2410-tech/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/mayur2410-tech/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/mayur2410-tech/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mayur2410-tech/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/mayur2410-tech/LeetCode/tree/master/1390-four-divisors) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/mayur2410-tech/LeetCode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/mayur2410-tech/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/mayur2410-tech/LeetCode/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/mayur2410-tech/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/mayur2410-tech/LeetCode/tree/master/0645-set-mismatch) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mayur2410-tech/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/mayur2410-tech/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/mayur2410-tech/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Two Pointers
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/mayur2410-tech/LeetCode/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/mayur2410-tech/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/mayur2410-tech/LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mayur2410-tech/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mayur2410-tech/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mayur2410-tech/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3634-minimum-removals-to-balance-array](https://github.com/mayur2410-tech/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/mayur2410-tech/LeetCode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/mayur2410-tech/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mayur2410-tech/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/mayur2410-tech/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Dynamic Programming
 |  |
