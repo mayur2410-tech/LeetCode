@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/mayur2410-tech/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/mayur2410-tech/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/mayur2410-tech/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/mayur2410-tech/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/mayur2410-tech/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/mayur2410-tech/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mayur2410-tech/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mayur2410-tech/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/mayur2410-tech/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mayur2410-tech/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mayur2410-tech/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mayur2410-tech/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mayur2410-tech/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/mayur2410-tech/LeetCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/mayur2410-tech/LeetCode/tree/master/0412-fizz-buzz) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mayur2410-tech/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
