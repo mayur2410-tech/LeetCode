@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/mayur2410-tech/LeetCode/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/mayur2410-tech/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/mayur2410-tech/LeetCode/tree/master/0645-set-mismatch) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/mayur2410-tech/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mayur2410-tech/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/mayur2410-tech/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/mayur2410-tech/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/mayur2410-tech/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/mayur2410-tech/LeetCode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/mayur2410-tech/LeetCode/tree/master/0412-fizz-buzz) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/mayur2410-tech/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1266-minimum-time-visiting-all-points](https://github.com/mayur2410-tech/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/mayur2410-tech/LeetCode/tree/master/1390-four-divisors) |
 | [1903-largest-odd-number-in-string](https://github.com/mayur2410-tech/LeetCode/tree/master/1903-largest-odd-number-in-string) |
