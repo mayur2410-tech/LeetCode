@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/mayur2410-tech/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/mayur2410-tech/LeetCode/tree/master/0645-set-mismatch) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mayur2410-tech/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/mayur2410-tech/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/mayur2410-tech/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/mayur2410-tech/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Two Pointers
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/mayur2410-tech/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/mayur2410-tech/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/mayur2410-tech/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/mayur2410-tech/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/mayur2410-tech/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/mayur2410-tech/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/mayur2410-tech/LeetCode/tree/master/2000-reverse-prefix-of-word) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/mayur2410-tech/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/mayur2410-tech/LeetCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/mayur2410-tech/LeetCode/tree/master/0412-fizz-buzz) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/mayur2410-tech/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mayur2410-tech/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/mayur2410-tech/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mayur2410-tech/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
