@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/mayur2410-tech/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/mayur2410-tech/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/mayur2410-tech/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/mayur2410-tech/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3640-trionic-array-ii](https://github.com/mayur2410-tech/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/mayur2410-tech/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Math
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1895-largest-magic-square](https://github.com/mayur2410-tech/LeetCode/tree/master/1895-largest-magic-square) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/mayur2410-tech/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/mayur2410-tech/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/mayur2410-tech/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Linked List
