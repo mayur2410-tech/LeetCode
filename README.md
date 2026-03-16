@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/mayur2410-tech/LeetCode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/mayur2410-tech/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1470-shuffle-the-array](https://github.com/mayur2410-tech/LeetCode/tree/master/1470-shuffle-the-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mayur2410-tech/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mayur2410-tech/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/mayur2410-tech/LeetCode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/mayur2410-tech/LeetCode/tree/master/1975-maximum-matrix-sum) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mayur2410-tech/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mayur2410-tech/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/mayur2410-tech/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mayur2410-tech/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [3453-separate-squares-i](https://github.com/mayur2410-tech/LeetCode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/mayur2410-tech/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/mayur2410-tech/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
