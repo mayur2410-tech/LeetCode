@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/mayur2410-tech/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/mayur2410-tech/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/mayur2410-tech/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mayur2410-tech/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mayur2410-tech/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/mayur2410-tech/LeetCode/tree/master/1390-four-divisors) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/mayur2410-tech/LeetCode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mayur2410-tech/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mayur2410-tech/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/mayur2410-tech/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mayur2410-tech/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mayur2410-tech/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [3453-separate-squares-i](https://github.com/mayur2410-tech/LeetCode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/mayur2410-tech/LeetCode/tree/master/3454-separate-squares-ii) |
