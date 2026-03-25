@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/mayur2410-tech/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mayur2410-tech/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/mayur2410-tech/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/mayur2410-tech/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mayur2410-tech/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/mayur2410-tech/LeetCode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/mayur2410-tech/LeetCode/tree/master/1975-maximum-matrix-sum) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mayur2410-tech/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mayur2410-tech/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/mayur2410-tech/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/mayur2410-tech/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [3453-separate-squares-i](https://github.com/mayur2410-tech/LeetCode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/mayur2410-tech/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/mayur2410-tech/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
