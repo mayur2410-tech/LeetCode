@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/mayur2410-tech/LeetCode/tree/master/1390-four-divisors) |
 | [1903-largest-odd-number-in-string](https://github.com/mayur2410-tech/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2396-strictly-palindromic-number](https://github.com/mayur2410-tech/LeetCode/tree/master/2396-strictly-palindromic-number) |
+| [2651-calculate-delayed-arrival-time](https://github.com/mayur2410-tech/LeetCode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2965-find-missing-and-repeated-values](https://github.com/mayur2410-tech/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/mayur2410-tech/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## String
