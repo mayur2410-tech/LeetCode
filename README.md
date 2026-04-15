@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-minimum-time-to-complete-trips](https://github.com/mayur2410-tech/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/mayur2410-tech/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2460-apply-operations-to-an-array](https://github.com/mayur2410-tech/LeetCode/tree/master/2460-apply-operations-to-an-array) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/mayur2410-tech/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2560-house-robber-iv](https://github.com/mayur2410-tech/LeetCode/tree/master/2560-house-robber-iv) |
 | [2906-construct-product-matrix](https://github.com/mayur2410-tech/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/mayur2410-tech/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/mayur2410-tech/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/mayur2410-tech/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/mayur2410-tech/LeetCode/tree/master/2000-reverse-prefix-of-word) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/mayur2410-tech/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/mayur2410-tech/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/mayur2410-tech/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/mayur2410-tech/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
