@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/mayur2410-tech/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/mayur2410-tech/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mayur2410-tech/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mayur2410-tech/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/mayur2410-tech/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/mayur2410-tech/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mayur2410-tech/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mayur2410-tech/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -348,12 +350,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/mayur2410-tech/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mayur2410-tech/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mayur2410-tech/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/mayur2410-tech/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Binary Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/mayur2410-tech/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/mayur2410-tech/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mayur2410-tech/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mayur2410-tech/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
